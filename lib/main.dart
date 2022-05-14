@@ -4,27 +4,20 @@ import 'package:unibox/provider/theme_provider.dart';
 
 import 'modules/home_screen/home_screen.dart';
 
-
-
 void main() {
-  runApp( MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       themeMode: ThemeMode.system,
       theme: MyThemes.LightTheme,
-      darkTheme:MyThemes.darkTheme ,
+      darkTheme: MyThemes.darkTheme,
       debugShowCheckedModeBanner: false,
-        home: HomeScreen(),
-//5555555555555555wqwsqqw
-
+      home: HomeScreen(),
     );
   }
 }
-
-
