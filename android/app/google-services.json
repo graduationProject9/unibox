@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551793007938",
+    "project_id": "unibox-f0ad4",
+    "storage_bucket": "unibox-f0ad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551793007938:android:09eaf1fc9fc36c8cf37cdb",
+        "android_client_info": {
+          "package_name": "com.example.unibox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551793007938-ae8svcve3p8de42fd5v15hqqvi19c54l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCnRan3HIGAJ9Z1vLpkfxhcoqqaXbeR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551793007938-ae8svcve3p8de42fd5v15hqqvi19c54l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
